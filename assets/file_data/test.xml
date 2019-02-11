@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<donnee>
+  <journee>
+    <date>2019-02-02</date>
+    <valeur>-5.00</valeur>
+    <nom>VIREMENT EMIS</nom>
+  </journee>
+  <journee>
+    <date>2019-01-31</date>
+    <valeur>-59.40</valeur>
+    <nom>TIILT LUXEMBOURG           26/01</nom>
+  </journee>
+  <journee>
+    <date>2019-01-29</date>
+    <valeur>+2074.01</valeur>
+    <nom>SANOFI PASTEUR</nom>
+  </journee>
+  <journee>
+    <date>2019-01-28</date>
+    <valeur>-47.00</valeur>
+    <nom>E LECLERC INCARVILLE       26/01</nom>
+  </journee>
+  <journee>
+    <date>2019-01-28</date>
+    <valeur>-5.90</valeur>
+    <nom>CASEO LOUVIERS             26/01</nom>
+  </journee>
+  <journee>
+    <date>2019-01-27</date>
+    <valeur>-50.00</valeur>
+    <nom>LOUVIERS-AGENCE      27/01 12H20</nom>
+  </journee>
+  <journee>
+    <date>2019-01-24</date>
+    <valeur>-7.41</valeur>
+    <nom>VIREMENT EMIS</nom>
+  </journee>
+  <journee>
+    <date>2019-01-21</date>
+    <valeur>-91.66</valeur>
+    <nom>E.LECLERC LE NEUBOURG      18/01</nom>
+  </journee>
+  <journee>
+    <date>2019-01-21</date>
+    <valeur>-19.80</valeur>
+    <nom>CINEMA GRAND FORUM LOUVIER 18/01</nom>
+  </journee>
+  <journee>
+    <date>2019-01-21</date>
+    <valeur>-31.75</valeur>
+    <nom>LE BIG ART LOUVIERS        18/01</nom>
+  </journee>
+  <journee>
+    <date>2019-01-17</date>
+    <valeur>-500.00</valeur>
+    <nom>0142193</nom>
+  </journee>
+  <journee>
+    <date>2019-01-15</date>
+    <valeur>-46.50</valeur>
+    <nom>MATMUT ROUEN</nom>
+  </journee>
+  <journee>
+    <date>2019-01-15</date>
+    <valeur>-80.00</valeur>
+    <nom>INCARVILLE       12/01 11H29</nom>
+  </journee>
+  <journee>
+    <date>2019-01-14</date>
+    <valeur>-3.95</valeur>
+    <nom>E LECLERC INCARVILLE       12/01</nom>
+  </journee>
+  <journee>
+    <date>2019-01-14</date>
+    <valeur>-20.00</valeur>
+    <nom>DUBREUIL AUTOMOB LOUVIERS  13/01</nom>
+  </journee>
+  <journee>
+    <date>2019-01-13</date>
+    <valeur>-12.26</valeur>
+    <nom>VIREMENT EMIS</nom>
+  </journee>
+  <journee>
+    <date>2019-01-13</date>
+    <valeur>-24.00</valeur>
+    <nom>VIREMENT EMIS</nom>
+  </journee>
+  <journee>
+    <date>2019-01-09</date>
+    <valeur>-101.74</valeur>
+    <nom>EDF clients particuliers</nom>
+  </journee>
+  <journee>
+    <date>2019-01-08</date>
+    <valeur>-54.99</valeur>
+    <nom>Orange</nom>
+  </journee>
+  <journee>
+    <date>2019-01-07</date>
+    <valeur>-63.60</valeur>
+    <nom>TREND ROUEN                05/01</nom>
+  </journee>
+  <journee>
+    <date>2019-01-05</date>
+    <valeur>-135.75</valeur>
+    <nom>VIREMENT EMIS</nom>
+  </journee>
+  <journee>
+    <date>2019-01-03</date>
+    <valeur>-3.95</valeur>
+    <nom>COTISATION CSCA ESSENTIEL</nom>
+  </journee>
+  <journee>
+    <date>2019-01-02</date>
+    <valeur>-7.16</valeur>
+    <nom>E LECLERC INCARVILLE       31/12</nom>
+  </journee>
+  <journee>
+    <date>2018-12-31</date>
+    <valeur>+29.80</valeur>
+    <nom>M JEAN GWENNAEL VIREMENT SEPA PA</nom>
+  </journee>
+  <journee>
+    <date>2018-12-31</date>
+    <valeur>-89.40</valeur>
+    <nom>MC DONALD'S VAL DE REUIL   28/12</nom>
+  </journee>
+  <journee>
+    <date>2018-12-28</date>
+    <valeur>-145.00</valeur>
+    <nom>VIREMENT EMIS</nom>
+  </journee>
+  <journee>
+    <date>2018-12-28</date>
+    <valeur>-9.90</valeur>
+    <nom>VIREMENT EMIS</nom>
+  </journee>
+  <journee>
+    <date>2018-12-28</date>
+    <valeur>-94.20</valeur>
+    <nom>LE PARIS PLAGE LE TOUQUET  26/12</nom>
+  </journee>
+  <journee>
+    <date>2018-12-27</date>
+    <valeur>+3677.32</valeur>
+    <nom>SANOFI PASTEUR</nom>
+  </journee>
+  <journee>
+    <date>2018-12-27</date>
+    <valeur>-25.01</valeur>
+    <nom>DUBREUIL AUTOMOB LOUVIERS  26/12</nom>
+  </journee>
+  <journee>
+    <date>2018-12-26</date>
+    <valeur>-70.40</valeur>
+    <nom>LE PARIS PLAGE LE TOUQUET  24/12</nom>
+  </journee>
+</donnee>
