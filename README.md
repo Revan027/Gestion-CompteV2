@@ -1,5 +1,5 @@
 # Gestion-CompteV2
-A personal banking account management application
+A personal banking account management application. Developed with CodeIgniter.
 
 ## Introduction
 
