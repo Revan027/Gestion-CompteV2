@@ -17,4 +17,4 @@ Gestion-CompteV2 est une application de gestion des comptes bancaire personelle.
 
  * Coming soon
 
-![Gestion Compte](application/assets/images/titre.png)
+![Gestion-CompteV2](assets/images/titre.png)
